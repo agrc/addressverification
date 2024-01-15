@@ -1,5 +1,5 @@
 {
-  "name": "address-verification",
+  "name": "addressverification",
   "private": true,
   "sideEffects": false,
   "type": "module",
