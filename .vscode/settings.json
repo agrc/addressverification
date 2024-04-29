@@ -4,6 +4,7 @@
     "isbot",
     "packagejson",
     "tailwindcss",
-    "typecheck"
+    "typecheck",
+    "utds"
   ]
 }
